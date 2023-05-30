@@ -156,7 +156,7 @@ public:
     /// @return The user input, parsed as int.
     static int getQuery(int data){
         string input;
-        getline(cin, input);
+        getline(std::cin, input);
         try{
             int i = stoi(input);
             data = i;
