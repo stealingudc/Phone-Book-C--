@@ -1,0 +1,1 @@
+Enter an index to select a subscriber OR enter "#" to return to the main menu.

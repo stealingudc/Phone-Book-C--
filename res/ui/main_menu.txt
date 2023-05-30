@@ -1,0 +1,10 @@
+///Main Menu///
+1) Add new subscriber
+2) Search for a subscriber (by index)
+3) Search for a subscriber (by name)
+4) Search for a subscriber (by phone number)
+5) Search for a subscriber (by country)
+6) Search for a subscriber (by address)
+7) List all subscribers
+
+9) Exit program

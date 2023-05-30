@@ -1,0 +1,9 @@
+Would you like to edit this subscriber's info?
+
+1) Add phone number
+2) Remove phone number
+3) Edit full name
+4) Edit address
+5) Remove subscriber
+
+9) Cancel
